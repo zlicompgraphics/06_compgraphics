@@ -1,0 +1,26 @@
+torus
+25 450 50 20 100
+ident
+rotate
+x 20
+apply
+box
+0 0 0 350 25 350
+torus
+125 100 0 35 150
+torus
+125 150 0 25 125
+box
+175 225 -200 25 225 25
+ident
+move
+125 100 0
+rotate
+x 20
+rotate
+y 20
+apply
+display
+save
+ringtoss.png
+quit
